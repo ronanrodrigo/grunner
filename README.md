@@ -11,7 +11,7 @@ rails g runner update_user_tokens
 ```ruby
 #Gemfile
 gem 'grunner', '~> 1.0.4'
-```
-```
+
+#Bash
 bundle install
 ```
